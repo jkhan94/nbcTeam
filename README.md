@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SNS%20SITE&fontSize=90)
+
+## 개발기간
+2024.06.19 ~ 2024.06.24
+
 ## Team
 <div style="text-align: center;">
   <table style="margin: 0 0 0 100px ;">
@@ -66,28 +70,26 @@
 <br/>
 
 
-## Develop Architecture
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/e1eaacd8-0dd3-44ad-bcbe-41eb5101a1b5/Untitled.png?id=37da6cc7-5e4f-46d5-a48e-b1da2b3d8495&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=yqBDCxuTIjq-um606HW5S9nYhgdXZH31mK5fongnJz4&downloadName=Untitled.png">
+## Architecture
+![아키텍처](https://github.com/user-attachments/assets/395f18ba-9460-439e-af98-851dfc63a2e8)
 <br/>
 
 ## ERD
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/e26b302e-f814-4fc5-aa58-6a6c02ab6c6a/Untitled.png?id=32ffb9a7-f144-49d3-8d7e-9e0ea3f27b58&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=bXRqshMNQku6BgwFBhQ513UuVyqFFZNCUa2ZYRpcAyU&downloadName=Untitled.png">
+<img width="657" alt="ERD" src="https://github.com/user-attachments/assets/1da6b779-6de1-4606-bafc-ad310fbe4d0f">
+
 <br/>
 
 ## API 명세서
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/46f46bdc-3f99-4f35-9a45-633ef20fded7/Untitled.png?id=fffaed1c-7bd3-4927-b4b7-69433c63aa00&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=s7pvkXrNAuvCTRgbUD-WyFWELjsjpuItM5i_s6wYW8A&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/29dc698e-ff07-4a85-8865-801593f06ed5/Untitled.png?id=0598d501-f727-4a41-87de-2980c7129b61&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=zAN643RAY1so3bNTATUFzRtEJ50ZftqeNe4WFwta2sY&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/aa412386-fcca-45f2-81e8-c0fa02c0cbfe/Untitled.png?id=477bb901-3feb-4df1-9db6-6998c9f88e89&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=AfAH2Z2S4Q7gcnVR5sVrr8Zx_4Tl6PzLxCGJaNKUkTg&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/8cc48c29-6cca-465f-8a94-23459a224c27/Untitled.png?id=d05e28b7-fcf8-444b-a20a-01fa2bd6f36d&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=56jm2NcaipaNxccGXb-uioKbv7VqjXKGD1c3ibdDLgc&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/82060bec-6f37-4a98-8759-21ef2b0b314c/Untitled.png?id=cb5ec59a-4478-44dd-8d55-e455d3af6b0c&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=YmLw_DRCSJ8-7u31bZRwbsDQNlA5bx5QJ6cT6g280ao&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/8a976a78-a1a3-495e-9b0d-d580b2014fa8/Untitled.png?id=fa03b1f2-95cd-4134-88c7-b362587513f2&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=nIHuAlpoPJHZivGy5Tirogvm0cDloMAmD0bNB4qwZbw&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/2b5ccfe2-1c51-4755-8df9-34b213bb07e0/Untitled.png?id=2c084b83-20cc-4021-b2f4-e8bf1fe602cc&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=Pl3fbKmjxsLeMPxxjWSzG-1VfKEhylNmkxaBQQJ3EUA&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/1ad43815-bc70-4fb4-a416-e3c08fcfdbce/Untitled.png?id=c2b00da5-a890-4aea-9e5e-dd6675478e51&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=3ESbtTEY2LWLiRBwF4TsYraZMWP34vZ6WqX1fvkJDmg&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/184e98f5-5b66-4dc5-ba5b-b67ad7d37142/Untitled.png?id=5667c4ea-3a50-4901-81c4-0db0d52599bf&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719374400000&signature=nCfHFyD4F-jL4g_dSidTY1NJAZejWeYrdOghiRim8-g&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/c31ff4e0-97cb-4e78-bb11-7940091551a4/Untitled.png?id=75ad1053-8791-4aaa-92ab-d31ae61c22a8&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719374400000&signature=iFS3Y5kd-JRWJvh5FD7l3zkyvsdvsqG8ouNryRU-ujY&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/9ab05164-f1d9-4179-8cdb-579d4909d1ff/Untitled.png?id=6e729123-c051-4db8-8bb6-17ac5ff8c859&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719374400000&signature=wRSKNB0nHQm0F6pPkl66lneCCi45dMf3X-U3BNATdlc&downloadName=Untitled.png">
+<img width="950" alt="API 명세서 1" src="https://github.com/user-attachments/assets/8471b012-3fff-4717-87b8-ebbb2660714c">
+<img width="949" alt="API 명세서 2" src="https://github.com/user-attachments/assets/4a837db6-8974-46ef-88f5-c2eb83b30b5c">
+<img width="954" alt="API 명세서 3" src="https://github.com/user-attachments/assets/9a6e2225-315a-46c8-b9ca-421553c38b2d">
+<img width="951" alt="API 명세서 4" src="https://github.com/user-attachments/assets/9f904ae0-0153-4f8c-98fd-0d494a131f85">
+<img width="953" alt="API 명세서 5" src="https://github.com/user-attachments/assets/9919ca40-55c1-430e-8325-6350c00e75b8">
+<img width="951" alt="API 명세서 6" src="https://github.com/user-attachments/assets/1c1a5ea6-c5a9-498c-a267-906e1d7b04a1">
+
 <br/>
 
 ## Git Rules
-<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/c2f8e475-567d-4631-931d-fb41fc8ed0e1/Untitled.png?id=5bf4c388-24c9-4afe-9870-173f6d00437b&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1719367200000&signature=QC32fIEhHsmlLXUnGRiJG94GnrtTDy4V_lrUBlSXUz8&downloadName=Untitled.png">
+![깃허브 컨벤션](https://github.com/user-attachments/assets/13cb70a8-289b-4da5-95db-12e00040d000)
+
 <br/>
